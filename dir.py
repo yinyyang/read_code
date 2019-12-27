@@ -1,0 +1,1 @@
+code_path ="D:\\study_projects\\python\\k3store\\src\\main\\java\\com\\seakoon\\web"
